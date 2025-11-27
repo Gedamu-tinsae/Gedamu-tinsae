@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - test
+      - main-v2
       - main
 
 jobs:

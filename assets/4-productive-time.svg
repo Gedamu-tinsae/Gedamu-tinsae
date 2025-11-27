@@ -1,0 +1,184 @@
+
+  <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" class="container">
+    <style>
+      .bg { fill: #0d1117; }
+      .card-bg { fill: #161b22; stroke: #30363d; }
+      .header { font: bold 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+      .stat { font: 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+    </style>
+    <rect width="100%" height="100%" rx="8" ry="8" class="bg"/>
+    <rect x="5" y="5" width="390" height="190" rx="8" ry="8" class="card-bg"/>
+    <text x="20" y="32" class="header">Productive Time</text>
+    <text x="20" y="50" class="stat">Recent commits grouped by hour (local offset applied).</text>
+    <g transform="translate(0, 0)">
+      
+        <g transform="translate(20, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>12AM: 0 commits</title>
+          </rect>
+          <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">12AM</text>
+        </g>
+
+        <g transform="translate(34, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>1AM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(48, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>2AM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(62, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>3AM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(76, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>4AM: 0 commits</title>
+          </rect>
+          <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">4AM</text>
+        </g>
+
+        <g transform="translate(90, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>5AM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(104, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>6AM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(118, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>7AM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(132, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>8AM: 0 commits</title>
+          </rect>
+          <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">8AM</text>
+        </g>
+
+        <g transform="translate(146, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>9AM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(160, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>10AM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(174, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>11AM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(188, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>12PM: 0 commits</title>
+          </rect>
+          <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">12PM</text>
+        </g>
+
+        <g transform="translate(202, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>1PM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(216, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>2PM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(230, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>3PM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(244, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>4PM: 0 commits</title>
+          </rect>
+          <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">4PM</text>
+        </g>
+
+        <g transform="translate(258, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>5PM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(272, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>6PM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(286, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>7PM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(300, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>8PM: 0 commits</title>
+          </rect>
+          <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">8PM</text>
+        </g>
+
+        <g transform="translate(314, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>9PM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(328, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>10PM: 0 commits</title>
+          </rect>
+          
+        </g>
+
+        <g transform="translate(342, 0)">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+            <title>11PM: 0 commits</title>
+          </rect>
+          
+        </g>
+    </g>
+    <text x="20" y="115" class="stat">Not enough recent activity to build a timeline.</text>
+  </svg>

@@ -1,0 +1,33 @@
+
+  <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" class="container">
+    <style>
+      .bg { fill: #0d1117; }
+      .card-bg { fill: #161b22; stroke: #30363d; }
+      .header { font: bold 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+      .stat { font: 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+    </style>
+    <rect width="100%" height="100%" rx="8" ry="8" class="bg"/>
+    <rect x="5" y="5" width="390" height="190" rx="8" ry="8" class="card-bg"/>
+    <text x="20" y="32" class="header">Commit Language Distribution</text>
+    <text x="20" y="52" class="stat">Based on recent commits from active repositories.</text>
+    
+        <g transform="translate(20, 60)">
+          <rect x="0" y="0" width="250" height="16" fill="#79c0ff" rx="4" />
+          <text x="260" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Python (3141)</text>
+        </g>
+
+        <g transform="translate(20, 90)">
+          <rect x="0" y="0" width="84.8455905762496" height="16" fill="#f85149" rx="4" />
+          <text x="94.8455905762496" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Markdown (1066)</text>
+        </g>
+
+        <g transform="translate(20, 120)">
+          <rect x="0" y="0" width="49.18815663801337" height="16" fill="#3fb950" rx="4" />
+          <text x="59.18815663801337" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">JavaScript (618)</text>
+        </g>
+
+        <g transform="translate(20, 150)">
+          <rect x="0" y="0" width="30" height="16" fill="#d29922" rx="4" />
+          <text x="40" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">CSS (294)</text>
+        </g>
+  </svg>

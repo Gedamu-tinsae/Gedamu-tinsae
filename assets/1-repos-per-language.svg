@@ -1,0 +1,64 @@
+
+  <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" class="container">
+    <style>
+      .bg { fill: #0d1117; }
+      .card-bg { fill: #161b22; stroke: #30363d; }
+      .header { font: bold 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+    </style>
+    <rect width="100%" height="100%" rx="8" ry="8" class="bg"/>
+    <rect x="5" y="5" width="390" height="190" rx="8" ry="8" class="card-bg"/>
+    <text x="20" y="32" class="header">Languages Distribution</text>
+
+    <g transform="translate(-40, 0)">
+      
+      <path d="M 175,105 L 175,50 A 55,55 0 1,1 151.9894071590631,154.95510601638858 Z"
+            fill="#79c0ff" opacity="0.9" />
+    
+      <path d="M 175,105 L 151.9894071590631,154.95510601638858 A 55,55 0 0,1 127.22526670589947,77.7497732362176 Z"
+            fill="#3572A5" opacity="0.9" />
+    
+      <path d="M 175,105 L 127.22526670589947,77.7497732362176 A 55,55 0 0,1 153.95241121992007,54.18662571187922 Z"
+            fill="#f1e05a" opacity="0.9" />
+    
+      <path d="M 175,105 L 153.95241121992007,54.18662571187922 A 55,55 0 0,1 163.77902855735903,51.1568035877936 Z"
+            fill="#e34c26" opacity="0.9" />
+    
+      <path d="M 175,105 L 163.77902855735903,51.1568035877936 A 55,55 0 0,1 171.6844894989531,50.1000237694273 Z"
+            fill="#563d7c" opacity="0.9" />
+    
+      <path d="M 175,105 L 171.6844894989531,50.1000237694273 A 55,55 0 0,1 174.7926553760022,50.00039083587139 Z"
+            fill="#f34b7d" opacity="0.9" />
+    
+    </g>
+
+    
+        <g transform="translate(210, 70)">
+          <rect x="0" y="-10" width="12" height="12" rx="2" fill="#79c0ff"/>
+          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">Jupyter Notebook - 56.87%</text>
+        </g>
+
+        <g transform="translate(210, 92)">
+          <rect x="0" y="-10" width="12" height="12" rx="2" fill="#3572A5"/>
+          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">Python - 26.38%</text>
+        </g>
+
+        <g transform="translate(210, 114)">
+          <rect x="0" y="-10" width="12" height="12" rx="2" fill="#f1e05a"/>
+          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">JavaScript - 10.50%</text>
+        </g>
+
+        <g transform="translate(210, 136)">
+          <rect x="0" y="-10" width="12" height="12" rx="2" fill="#e34c26"/>
+          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">HTML - 2.98%</text>
+        </g>
+
+        <g transform="translate(210, 158)">
+          <rect x="0" y="-10" width="12" height="12" rx="2" fill="#563d7c"/>
+          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">CSS - 2.31%</text>
+        </g>
+
+        <g transform="translate(210, 180)">
+          <rect x="0" y="-10" width="12" height="12" rx="2" fill="#f34b7d"/>
+          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">C++ - 0.90%</text>
+        </g>
+  </svg>

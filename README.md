@@ -95,13 +95,13 @@ Currently working as a **Backend Engineer** developing AI/ML systems and automat
 
 <div align="center">
 
-![Profile Details](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/test/assets/0-profile-details.svg)
-![Repos Per Language](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/test/assets/1-repos-per-language.svg)
-![Commit Language Distribution](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/test/assets/2-most-commit-language.svg)
-![Stats](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/test/assets/3-stats.svg)
-![Productive Time](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/test/assets/4-productive-time.svg)
-![Contribution Stats](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/test/assets/5-contribution-stats.svg)
-![Activity Insights](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/test/assets/6-activity-insights.svg)
+![Profile Details](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/0-profile-details.svg)
+![Repos Per Language](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/1-repos-per-language.svg)
+![Commit Language Distribution](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/2-most-commit-language.svg)
+![Stats](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/3-stats.svg)
+![Productive Time](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/4-productive-time.svg)
+![Contribution Stats](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/5-contribution-stats.svg)
+![Activity Insights](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/6-activity-insights.svg)
 
 </div>
 
