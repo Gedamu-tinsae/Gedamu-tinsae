@@ -13,172 +13,172 @@
     <g transform="translate(0, 0)">
       
         <g transform="translate(20, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>12AM: 0 commits</title>
           </rect>
           <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">12AM</text>
         </g>
 
         <g transform="translate(34, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>1AM: 0 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(48, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>2AM: 0 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(62, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>3AM: 0 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(76, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>4AM: 0 commits</title>
           </rect>
           <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">4AM</text>
         </g>
 
         <g transform="translate(90, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>5AM: 0 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(104, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>6AM: 0 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(118, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>7AM: 0 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(132, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
-            <title>8AM: 0 commits</title>
+          <rect x="0" y="72.77777777777777" width="10" height="62.22222222222222" fill="#58a6ff" opacity="0.85">
+            <title>8AM: 7 commits</title>
           </rect>
           <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">8AM</text>
         </g>
 
         <g transform="translate(146, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
-            <title>9AM: 0 commits</title>
+          <rect x="0" y="63.888888888888886" width="10" height="71.11111111111111" fill="#58a6ff" opacity="0.85">
+            <title>9AM: 8 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(160, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>10AM: 0 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(174, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
-            <title>11AM: 0 commits</title>
+          <rect x="0" y="99.44444444444444" width="10" height="35.55555555555556" fill="#58a6ff" opacity="0.85">
+            <title>11AM: 4 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(188, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
-            <title>12PM: 0 commits</title>
+          <rect x="0" y="108.33333333333334" width="10" height="26.666666666666664" fill="#58a6ff" opacity="0.85">
+            <title>12PM: 3 commits</title>
           </rect>
           <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">12PM</text>
         </g>
 
         <g transform="translate(202, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
-            <title>1PM: 0 commits</title>
+          <rect x="0" y="55" width="10" height="80" fill="#58a6ff" opacity="0.85">
+            <title>1PM: 9 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(216, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
-            <title>2PM: 0 commits</title>
+          <rect x="0" y="108.33333333333334" width="10" height="26.666666666666664" fill="#58a6ff" opacity="0.85">
+            <title>2PM: 3 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(230, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
-            <title>3PM: 0 commits</title>
+          <rect x="0" y="108.33333333333334" width="10" height="26.666666666666664" fill="#58a6ff" opacity="0.85">
+            <title>3PM: 3 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(244, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>4PM: 0 commits</title>
           </rect>
           <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">4PM</text>
         </g>
 
         <g transform="translate(258, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
-            <title>5PM: 0 commits</title>
+          <rect x="0" y="99.44444444444444" width="10" height="35.55555555555556" fill="#58a6ff" opacity="0.85">
+            <title>5PM: 4 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(272, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
-            <title>6PM: 0 commits</title>
+          <rect x="0" y="55" width="10" height="80" fill="#58a6ff" opacity="0.85">
+            <title>6PM: 9 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(286, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
-            <title>7PM: 0 commits</title>
+          <rect x="0" y="81.66666666666667" width="10" height="53.33333333333333" fill="#58a6ff" opacity="0.85">
+            <title>7PM: 6 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(300, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
-            <title>8PM: 0 commits</title>
+          <rect x="0" y="99.44444444444444" width="10" height="35.55555555555556" fill="#58a6ff" opacity="0.85">
+            <title>8PM: 4 commits</title>
           </rect>
           <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">8PM</text>
         </g>
 
         <g transform="translate(314, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>9PM: 0 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(328, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>10PM: 0 commits</title>
           </rect>
           
         </g>
 
         <g transform="translate(342, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.3">
+          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
             <title>11PM: 0 commits</title>
           </rect>
           
         </g>
     </g>
-    <text x="20" y="115" class="stat">Not enough recent activity to build a timeline.</text>
+    <text x="20" y="175" class="stat"><tspan x="20" dy="0">• 1PM — 9 commits</tspan><tspan x="20" dy="14">• 6PM — 9 commits</tspan><tspan x="20" dy="14">• 9AM — 8 commits</tspan></text>
   </svg>
