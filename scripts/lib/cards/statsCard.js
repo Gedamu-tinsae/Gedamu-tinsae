@@ -1,0 +1,90 @@
+const { getTheme } = require('../theme');
+
+function resolveRating(totalActivity) {
+  if (totalActivity > 500) return 'A';
+  if (totalActivity > 300) return 'B';
+  if (totalActivity > 150) return 'C';
+  if (totalActivity > 50) return 'D';
+  return 'A+';
+}
+
+function ratingColor(rating) {
+  switch (rating) {
+    case 'A':
+      return '#3fb950';
+    case 'B':
+      return '#6e7681';
+    case 'C':
+      return '#d29922';
+    case 'D':
+      return '#e39c3f';
+    default:
+      return '#f85149';
+  }
+}
+
+function createStatsCard(user) {
+  const totalActivity = user.public_repos + user.followers + user.public_gists;
+  const rating = resolveRating(totalActivity);
+  const theme = getTheme();
+
+  return `
+  <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" class="container">
+    <style>
+      .bg { fill: ${theme.background}; }
+      .card-bg { fill: ${theme.cardBackground}; stroke: ${theme.stroke}; }
+      .header { font: bold 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${theme.header}; }
+      .value { font: bold 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${theme.value}; }
+      .label { font: 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${theme.muted}; }
+      .rating { font: bold 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${ratingColor(rating)}; }
+      .rating-label { font: 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${theme.muted}; }
+    </style>
+    <rect width="100%" height="100%" rx="8" ry="8" class="bg"/>
+    <rect x="5" y="5" width="390" height="190" rx="8" ry="8" class="card-bg"/>
+
+    <text x="20" y="30" class="header">📊 GitHub Metrics</text>
+    <g transform="translate(260, 28)">
+      <rect x="0" y="-18" width="120" height="36" rx="8" fill="#21262d" stroke="#30363d"/>
+      <text x="12" y="-2" class="rating-label">Overall</text>
+      <text x="12" y="18" class="rating">${rating}</text>
+    </g>
+
+    <g transform="translate(30, 98)" text-anchor="middle">
+      <g transform="translate(-12, 0)">
+        <path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm0 18.5c-.514 0-.99-.1-1.4-.3l5.2-5.2c.2.4.3.8.3 1.4 0 3.04-2.46 5.5-5.5 5.5zM3.5 12c0-.514.1-.99.3-1.4l5.2 5.2c-.2.6-.3 1.3-.3 1.9 0 3.04-2.46 5.5 5.5 5.5.7 0 1.4-.1 2-.3L3.8 12.3c-.3-.4-.5-.9-.5-1.3z" fill="#7ee787"/>
+      </g>
+      <g transform="translate(0, 0)">
+        <text x="0" y="36" class="value">${user.public_repos}</text>
+        <text x="0" y="58" class="label">Repos</text>
+      </g>
+
+      <g transform="translate(90, 0)">
+        <g transform="translate(-12, 0)">
+          <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#f8e825"/>
+        </g>
+        <text x="0" y="36" class="value">${user.public_gists}</text>
+        <text x="0" y="58" class="label">Gists</text>
+      </g>
+
+      <g transform="translate(180, 0)">
+        <circle cx="0" cy="-3" r="5" fill="#e39c3f"/>
+        <rect x="-7" y="7" width="14" height="10" rx="2" fill="#e39c3f"/>
+        <text x="0" y="36" class="value">${user.followers}</text>
+        <text x="0" y="58" class="label">Followers</text>
+      </g>
+
+      <g transform="translate(270, 0)">
+        <circle cx="0" cy="-3" r="5" fill="#79c0ff"/>
+        <rect x="-7" y="7" width="14" height="10" rx="2" fill="#79c0ff"/>
+        <text x="0" y="36" class="value">${user.following}</text>
+        <text x="0" y="58" class="label">Following</text>
+      </g>
+    </g>
+
+    <text x="20" y="172" class="label" font-size="10">Updated: ${new Date().toISOString().split('T')[0]}</text>
+  </svg>`;
+}
+
+module.exports = {
+  createStatsCard,
+};

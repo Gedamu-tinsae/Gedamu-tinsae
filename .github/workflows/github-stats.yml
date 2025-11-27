@@ -1,0 +1,40 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - test
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - name: Ensure assets directory
+        run: mkdir -p assets
+      - name: Run stats generator
+        run: node scripts/generate-stats.js
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-update GitHub stats cards [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
