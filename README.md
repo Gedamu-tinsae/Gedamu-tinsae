@@ -107,12 +107,4 @@ Currently working as a **Backend Engineer** developing AI/ML systems and automat
 
 ---
 
-### 🧪 Local Testing
-1. Duplicate `.env.example` to `.env` and add your personal access token to `GH_TOKEN`.
-2. (Optional) Set `STATS_THEME` to `dark` or `light` to try alternative palettes locally.
-3. Run `node scripts/generate-stats.js` to regenerate all SVGs using your local credentials.
-4. Preview `README.md` in any Markdown viewer—the embedded images render from the freshly generated `assets/*.svg`.
-
----
-
 *"Bridging technology and social impact by building AI solutions that empower underrepresented communities and preserve linguistic diversity."*
