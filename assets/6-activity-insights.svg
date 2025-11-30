@@ -24,12 +24,12 @@
         <g transform="translate(20, 125)">
           <rect x="0" y="0" width="160" height="60" rx="8" fill="#161b22" stroke="#30363d" />
           <text x="10" y="20" font-size="12" fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif">Last Contribution</text>
-          <text x="10" y="38" font-size="14" fill="#79c0ff" font-family="Segoe UI, Ubuntu, Sans-Serif">2025-11-27</text>
+          <text x="10" y="38" font-size="14" fill="#79c0ff" font-family="Segoe UI, Ubuntu, Sans-Serif">2025-11-29</text>
         </g>
 
         <g transform="translate(200, 125)">
           <rect x="0" y="0" width="160" height="60" rx="8" fill="#161b22" stroke="#30363d" />
           <text x="10" y="20" font-size="12" fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif">Last Active Repo</text>
-          <text x="10" y="38" font-size="14" fill="#79c0ff" font-family="Segoe UI, Ubuntu, Sans-Serif">Gedamu-tinsae/Gedam...</text>
+          <text x="10" y="38" font-size="14" fill="#79c0ff" font-family="Segoe UI, Ubuntu, Sans-Serif">Gedamu-tinsae/yt-sp...</text>
         </g>
   </svg>

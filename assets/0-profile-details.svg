@@ -38,7 +38,7 @@
     <g transform="translate(220, 90)">
       <g transform="translate(0, 0)">
         <text x="0" y="0" class="stat">Repos</text>
-        <text x="0" y="15" class="value">25</text>
+        <text x="0" y="15" class="value">26</text>
       </g>
       <g transform="translate(55, 0)">
         <text x="0" y="0" class="stat">Gists</text>
