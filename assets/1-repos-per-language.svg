@@ -11,22 +11,22 @@
 
     <g transform="translate(-40, 0)">
       
-      <path d="M 175,105 L 175,50 A 55,55 0 1,1 154.817427109206,156.16310928303506 Z"
+      <path d="M 175,105 L 175,50 A 55,55 0 1,1 155.81774110441037,156.54649302971612 Z"
             fill="#79c0ff" opacity="0.9" />
     
-      <path d="M 175,105 L 154.817427109206,156.16310928303506 A 55,55 0 0,1 125.16118843782905,81.73859716030833 Z"
+      <path d="M 175,105 L 155.81774110441037,156.54649302971612 A 55,55 0 0,1 124.68962213778335,82.77690662034242 Z"
             fill="#3572A5" opacity="0.9" />
     
-      <path d="M 175,105 L 125.16118843782905,81.73859716030833 A 55,55 0 0,1 153.82476988967636,54.239684498864236 Z"
+      <path d="M 175,105 L 124.68962213778335,82.77690662034242 A 55,55 0 0,1 153.18858564775027,54.50978110609468 Z"
             fill="#f1e05a" opacity="0.9" />
     
-      <path d="M 175,105 L 153.82476988967636,54.239684498864236 A 55,55 0 0,1 163.98209188232414,51.11488423775586 Z"
+      <path d="M 175,105 L 153.18858564775027,54.50978110609468 A 55,55 0 0,1 163.3058392962445,51.257590252811134 Z"
             fill="#e34c26" opacity="0.9" />
     
-      <path d="M 175,105 L 163.98209188232414,51.11488423775586 A 55,55 0 0,1 171.7534814434209,50.09590072442871 Z"
+      <path d="M 175,105 L 163.3058392962445,51.257590252811134 A 55,55 0 0,1 171.78797934497547,50.09387171442795 Z"
             fill="#563d7c" opacity="0.9" />
     
-      <path d="M 175,105 L 171.7534814434209,50.09590072442871 A 55,55 0 0,1 174.82721268827663,50.0002714138978 Z"
+      <path d="M 175,105 L 171.78797934497547,50.09387171442795 A 55,55 0 0,1 174.86177006876486,50.00017370494602 Z"
             fill="#f34b7d" opacity="0.9" />
     
     </g>
@@ -34,17 +34,17 @@
     
         <g transform="translate(210, 70)">
           <rect x="0" y="-10" width="12" height="12" rx="2" fill="#79c0ff"/>
-          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">Jupyter Notebook - 55.98%</text>
+          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">Jupyter Notebook - 55.67%</text>
         </g>
 
         <g transform="translate(210, 92)">
           <rect x="0" y="-10" width="12" height="12" rx="2" fill="#3572A5"/>
-          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">Python - 25.97%</text>
+          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">Python - 25.95%</text>
         </g>
 
         <g transform="translate(210, 114)">
           <rect x="0" y="-10" width="12" height="12" rx="2" fill="#f1e05a"/>
-          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">JavaScript - 11.76%</text>
+          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">JavaScript - 11.89%</text>
         </g>
 
         <g transform="translate(210, 136)">
@@ -54,7 +54,7 @@
 
         <g transform="translate(210, 158)">
           <rect x="0" y="-10" width="12" height="12" rx="2" fill="#563d7c"/>
-          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">CSS - 2.27%</text>
+          <text x="20" y="0" font-family="Segoe UI" font-size="12" fill="#8b949e">CSS - 2.48%</text>
         </g>
 
         <g transform="translate(210, 180)">
