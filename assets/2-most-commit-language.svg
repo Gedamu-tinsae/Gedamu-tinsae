@@ -17,17 +17,17 @@
         </g>
 
         <g transform="translate(20, 90)">
-          <rect x="0" y="0" width="148.26657691013125" height="16" fill="#f85149" rx="4" />
-          <text x="158.26657691013125" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">JavaScript (1762)</text>
+          <rect x="0" y="0" width="155.41905082463816" height="16" fill="#f85149" rx="4" />
+          <text x="165.41905082463816" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">JavaScript (1847)</text>
         </g>
 
         <g transform="translate(20, 120)">
-          <rect x="0" y="0" width="65.80276001346348" height="16" fill="#3fb950" rx="4" />
-          <text x="75.80276001346348" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Markdown (782)</text>
+          <rect x="0" y="0" width="96.17973746213396" height="16" fill="#3fb950" rx="4" />
+          <text x="106.17973746213396" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Markdown (1143)</text>
         </g>
 
         <g transform="translate(20, 150)">
-          <rect x="0" y="0" width="31.63917872770111" height="16" fill="#d29922" rx="4" />
-          <text x="41.63917872770111" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">CSS (376)</text>
+          <rect x="0" y="0" width="56.79905755637832" height="16" fill="#d29922" rx="4" />
+          <text x="66.79905755637833" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">CSS (675)</text>
         </g>
   </svg>
