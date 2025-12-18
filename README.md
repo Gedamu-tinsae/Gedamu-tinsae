@@ -5,6 +5,8 @@
 
 🎲 **Fun fact:** I taught coding fundamentals to 200+ students across 4 schools in Ethiopia!
 
+> **Most of my engineering work happens in private company repositories.**
+
 ---
 
 ### 💼 Professional Experience
