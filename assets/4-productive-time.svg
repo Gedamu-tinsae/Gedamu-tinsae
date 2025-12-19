@@ -69,8 +69,8 @@
         </g>
 
         <g transform="translate(132, 0)">
-          <rect x="0" y="130.78947368421052" width="10" height="4.2105263157894735" fill="#58a6ff" opacity="0.85">
-            <title>8AM: 1 commits</title>
+          <rect x="0" y="126.57894736842105" width="10" height="8.421052631578947" fill="#58a6ff" opacity="0.85">
+            <title>8AM: 2 commits</title>
           </rect>
           <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">8AM</text>
         </g>
@@ -160,8 +160,8 @@
         </g>
 
         <g transform="translate(314, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
-            <title>9PM: 0 commits</title>
+          <rect x="0" y="130.78947368421052" width="10" height="4.2105263157894735" fill="#58a6ff" opacity="0.85">
+            <title>9PM: 1 commits</title>
           </rect>
           
         </g>
