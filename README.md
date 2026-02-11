@@ -1,4 +1,4 @@
-# Hello, I'm Gedamu (Kia) Tinsae! 👋
+# Hello, I'm Tinsae (Kiya) Gedamu! 👋
 
 ### 🚀 About Me
 ✨ **Creating bugs since 2015** - When I wrote my first "Hello, World" program in middle school!
