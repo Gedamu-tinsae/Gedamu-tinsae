@@ -125,8 +125,8 @@
         </g>
 
         <g transform="translate(244, 0)">
-          <rect x="0" y="131" width="10" height="4" fill="#58a6ff" opacity="0.85">
-            <title>4PM: 2 commits</title>
+          <rect x="0" y="127.88888888888889" width="10" height="7.111111111111112" fill="#58a6ff" opacity="0.85">
+            <title>4PM: 4 commits</title>
           </rect>
           <text x="5" y="153" font-size="8" text-anchor="middle" fill="#8b949e">4PM</text>
         </g>
