@@ -13,21 +13,21 @@
     
         <g transform="translate(20, 60)">
           <rect x="0" y="0" width="250" height="16" fill="#79c0ff" rx="4" />
-          <text x="260" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Python (5377)</text>
+          <text x="260" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Python (9183)</text>
         </g>
 
         <g transform="translate(20, 90)">
-          <rect x="0" y="0" width="91.26836525943835" height="16" fill="#f85149" rx="4" />
-          <text x="101.26836525943835" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Markdown (1963)</text>
+          <rect x="0" y="0" width="63.56855058259828" height="16" fill="#f85149" rx="4" />
+          <text x="73.56855058259828" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Markdown (2335)</text>
         </g>
 
         <g transform="translate(20, 120)">
           <rect x="0" y="0" width="30" height="16" fill="#3fb950" rx="4" />
-          <text x="40" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">JavaScript (448)</text>
+          <text x="40" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">JSON (1029)</text>
         </g>
 
         <g transform="translate(20, 150)">
           <rect x="0" y="0" width="30" height="16" fill="#d29922" rx="4" />
-          <text x="40" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">JSON (303)</text>
+          <text x="40" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Shell (1003)</text>
         </g>
   </svg>
