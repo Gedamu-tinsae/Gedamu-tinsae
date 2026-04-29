@@ -17,13 +17,13 @@
         </g>
 
         <g transform="translate(20, 90)">
-          <rect x="0" y="0" width="43.84783706446726" height="16" fill="#f85149" rx="4" />
-          <text x="53.84783706446726" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Shell (1042)</text>
+          <rect x="0" y="0" width="42.92206699208887" height="16" fill="#f85149" rx="4" />
+          <text x="52.92206699208887" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Shell (1020)</text>
         </g>
 
         <g transform="translate(20, 120)">
-          <rect x="0" y="0" width="30" height="16" fill="#3fb950" rx="4" />
-          <text x="40" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Markdown (639)</text>
+          <rect x="0" y="0" width="30.045446894462213" height="16" fill="#3fb950" rx="4" />
+          <text x="40.045446894462216" y="12" font-family="Segoe UI" font-size="12" fill="#8b949e">Markdown (714)</text>
         </g>
 
         <g transform="translate(20, 150)">
