@@ -106,7 +106,3 @@ Currently working as a **Backend Engineer** developing AI/ML systems and automat
 ![Activity Insights](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/6-activity-insights.svg)
 
 </div>
-
----
-
-*"Bridging technology and social impact by building AI solutions that empower underrepresented communities and preserve linguistic diversity."*
