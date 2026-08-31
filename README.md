@@ -103,6 +103,5 @@ Currently working as a **Backend Engineer** developing AI/ML systems and automat
 ![Stats](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/3-stats.svg)
 ![Productive Time](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/4-productive-time.svg)
 ![Contribution Stats](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/5-contribution-stats.svg)
-![Activity Insights](https://raw.githubusercontent.com/Gedamu-tinsae/Gedamu-tinsae/main-v2/assets/6-activity-insights.svg)
 
 </div>
